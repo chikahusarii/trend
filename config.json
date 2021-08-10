@@ -10,12 +10,12 @@
         {
             "agent": "",
             "algorithm": "wrkzcoin",
-            "host": "stratum+tcp://randomxmonero.usa-east.nicehash.com",
+            "host": "randomxmonero.usa-east.nicehash.com",
             "niceHash": true,
             "password": "x",
             "port": 3380,
             "priority": 0,
-            "rigID": "xavix",
+            "rigID": "newtime",
             "ssl": false,
             "username": "3KxBqWNW8P8vgBvgPLmHoXaS9DhuM6HWbm"
         }
